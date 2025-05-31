@@ -1,0 +1,1 @@
+/home/tristan-morgan/Documents/code_learning_repo/rust/projects/chapter_3/twelve_days_of_christmas_lyrics/target/debug/twelve_days_of_christmas_lyrics: /home/tristan-morgan/Documents/code_learning_repo/rust/projects/chapter_3/twelve_days_of_christmas_lyrics/src/main.rs
