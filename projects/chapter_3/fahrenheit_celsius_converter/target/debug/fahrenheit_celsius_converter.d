@@ -1,0 +1,1 @@
+/home/tristan-morgan/Documents/code_learning_repo/rust/projects/chapter_3/fahrenheit_celsius_converter/target/debug/fahrenheit_celsius_converter: /home/tristan-morgan/Documents/code_learning_repo/rust/projects/chapter_3/fahrenheit_celsius_converter/src/main.rs
