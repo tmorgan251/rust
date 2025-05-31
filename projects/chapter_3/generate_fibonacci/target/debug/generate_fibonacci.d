@@ -1,0 +1,1 @@
+/home/tristan-morgan/Documents/code_learning_repo/rust/projects/chapter_3/generate_fibonacci/target/debug/generate_fibonacci: /home/tristan-morgan/Documents/code_learning_repo/rust/projects/chapter_3/generate_fibonacci/src/main.rs
